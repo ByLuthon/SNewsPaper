@@ -1,0 +1,2 @@
+# SNewsPaper
+SNews Paper sample
